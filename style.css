@@ -1,0 +1,15 @@
+#display {
+    height: 50px;
+    background-color: rgb(200, 200, 200);
+    font-size: 3em;
+    text-align: right;
+}
+
+.key {
+    padding: 5px;
+}
+
+.btn-calc {
+    font-size: 1.5em;
+    width: 100%;
+}
